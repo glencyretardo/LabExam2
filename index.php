@@ -32,7 +32,7 @@ if (isset($_POST['submit'])) {
         }
     } else {
         
-        $errorMess = "Please type in your next travel !";
+        $errorMess = "Please type in your next travelll !";
     }
 }
 
