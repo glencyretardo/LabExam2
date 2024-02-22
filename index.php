@@ -65,7 +65,7 @@ if (isset($_POST['remove'])) {
     <h1>Travel List</h1>
     <hr>
     <?php if (empty($_SESSION['countries'])): ?>
-        <p>Adventure awaits, add something to your travel list, girl go!</p>
+        <p>Adventure awaits, add something to your travel list, girl go go!</p>
     <?php else: ?>
         <form method="post"> 
             <destinationList id="travelList">
